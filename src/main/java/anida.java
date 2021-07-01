@@ -7,4 +7,6 @@ public class anida {
         return anidaa;
     }
     public int getFaris(){ return faris;}
+
+    /**nekakvi komentari**/
 }
