@@ -46,13 +46,9 @@ public class EmployeeResource {
         return new ResponseEntity<>(HttpStatus.OK);
 
     }
-<<<<<<< HEAD
 
     /*bezveze*/
 
     /*anida*/
-=======
-    /*komentar*/
->>>>>>> 5ada878873ddf733380af08205632d4a337437a5
 
 }
