@@ -10,4 +10,6 @@ public class anida {
     public int getFaris(){ return faris;}
 
     /**nekakvi komentari**/
+    /**i još komentara**/
+    /** i još na masteru komentara**/
 }
